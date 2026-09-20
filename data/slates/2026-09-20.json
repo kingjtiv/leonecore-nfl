@@ -1,0 +1,465 @@
+{
+  "date": "2026-09-20",
+  "label": "Sunday, September 20, 2026",
+  "week": "Week 02",
+  "edition": "No. 001",
+  "snapshot": "September 20, 2026 · 10:55 AM ET",
+  "status": "Research snapshot",
+  "sourceNote": "Scorer rankings, prices, statistics and parlay ideas are adapted from the supplied NFL Parlay Analysis conversation. They have not been independently validated as current betting markets. Schedule checked against NFL.com; Flowers’ absence checked against the Ravens’ September 19 report. Other availability and weather notes remain items to verify.",
+  "slates": [
+    {
+      "id": "early",
+      "label": "1 PM",
+      "name": "The early slate",
+      "time": "1:00 PM ET",
+      "intro": "Rushing volume sets the tone. Henry leads the original board, with receiving alternatives rounding out the card.",
+      "anchor": "Derrick Henry",
+      "anchorTeam": "BAL · RUNNING BACK",
+      "anchorRead": "The early-slate foundation",
+      "games": [
+        {
+          "teams": "NO @ BAL",
+          "time": "1:00 PM"
+        },
+        {
+          "teams": "MIN @ CHI",
+          "time": "1:00 PM"
+        },
+        {
+          "teams": "PHI @ TEN",
+          "time": "1:00 PM"
+        },
+        {
+          "teams": "CIN @ HOU",
+          "time": "1:00 PM"
+        },
+        {
+          "teams": "CLE @ TB",
+          "time": "1:00 PM"
+        },
+        {
+          "teams": "PIT @ NE",
+          "time": "1:00 PM"
+        },
+        {
+          "teams": "CAR @ ATL",
+          "time": "1:00 PM"
+        },
+        {
+          "teams": "GB @ NYJ",
+          "time": "1:00 PM"
+        }
+      ],
+      "players": [
+        {
+          "name": "Derrick Henry",
+          "team": "BAL",
+          "position": "RB",
+          "matchup": "NO @ BAL",
+          "odds": "−260",
+          "read": "Strongest",
+          "note": "The original read favors Baltimore’s rushing volume and Henry’s goal-line role. Flowers’ absence adds context, but does not guarantee extra carries.",
+          "stat": "Opponent allowed 165 rush yards · original note"
+        },
+        {
+          "name": "D’Andre Swift",
+          "team": "CHI",
+          "position": "RB",
+          "matchup": "MIN @ CHI",
+          "odds": "−150",
+          "read": "Strong",
+          "note": "The starter analysis leans toward the run in Chicago. Recheck the wind and rain forecast before using weather to support a rushing leg.",
+          "stat": "60.5 rush-yard line · original note"
+        },
+        {
+          "name": "Saquon Barkley",
+          "team": "PHI",
+          "position": "RB",
+          "matchup": "PHI @ TEN",
+          "odds": "−110",
+          "read": "Strong",
+          "note": "A favorable rushing matchup is the original thesis. Philadelphia’s goal-line distribution remains a source of touchdown uncertainty.",
+          "stat": "Philadelphia −7 · original note"
+        },
+        {
+          "name": "Ja’Marr Chase",
+          "team": "CIN",
+          "position": "WR",
+          "matchup": "CIN @ HOU",
+          "odds": "+115",
+          "read": "Strong",
+          "note": "A receiving rebound is the original angle. The 50+ yard alternative lowers the threshold relative to the cited full line.",
+          "stat": "~83 receiving-yard projection · original note"
+        },
+        {
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "position": "WR",
+          "matchup": "MIN @ CHI",
+          "odds": "+145",
+          "read": "Strong",
+          "note": "The original analysis highlights receiving volume after a productive opener. Chicago weather is the key item to revisit.",
+          "stat": "Week 1: 8 catches / 92 yards / 2 TD · original note"
+        },
+        {
+          "name": "Dallas Goedert",
+          "team": "PHI",
+          "position": "TE",
+          "matchup": "PHI @ TEN",
+          "odds": "+210",
+          "read": "Value",
+          "note": "The starter read emphasizes end-zone usage. A longer price is a speculative option, not evidence of positive expected value.",
+          "stat": "Week 1: 2 TD · original note"
+        }
+      ],
+      "parlays": {
+        "safer": {
+          "title": "Fewer legs. More restraint.",
+          "risk": "Lower relative risk · still high risk",
+          "note": "An editorial variation on the original card: five legs, with fewer touchdown requirements. “Safer” is relative; every leg must win and no parlay is safe.",
+          "legs": [
+            [
+              "Derrick Henry",
+              "Anytime touchdown"
+            ],
+            [
+              "Ja’Marr Chase",
+              "50+ receiving yards"
+            ],
+            [
+              "D’Andre Swift",
+              "40+ rushing yards"
+            ],
+            [
+              "Dallas Goedert",
+              "25+ receiving yards"
+            ],
+            [
+              "Harold Fannin Jr.",
+              "25+ receiving yards"
+            ]
+          ]
+        },
+        "balanced": {
+          "title": "The original balanced card.",
+          "risk": "High risk · original 7-leg construction",
+          "note": "Preserved from the source conversation. Alternative thresholds are research ideas, not confirmed book offerings. Same-game correlations affect pricing and acceptance.",
+          "legs": [
+            [
+              "Derrick Henry",
+              "Anytime touchdown"
+            ],
+            [
+              "Saquon Barkley",
+              "Anytime touchdown"
+            ],
+            [
+              "Justin Jefferson",
+              "50+ receiving yards"
+            ],
+            [
+              "Ja’Marr Chase",
+              "50+ receiving yards"
+            ],
+            [
+              "D’Andre Swift",
+              "40+ rushing yards"
+            ],
+            [
+              "Dallas Goedert",
+              "25+ receiving yards"
+            ],
+            [
+              "Harold Fannin Jr.",
+              "25+ receiving yards"
+            ]
+          ]
+        },
+        "aggressive": {
+          "title": "An extra touchdown angle.",
+          "risk": "Very high risk · 8 legs",
+          "note": "Adds a touchdown to the balanced card. The extra leg reduces the chance that every selection wins. Yardage and touchdown legs for the same player are correlated.",
+          "legs": [
+            [
+              "Derrick Henry",
+              "Anytime touchdown"
+            ],
+            [
+              "Saquon Barkley",
+              "Anytime touchdown"
+            ],
+            [
+              "Justin Jefferson",
+              "50+ receiving yards"
+            ],
+            [
+              "Ja’Marr Chase",
+              "50+ receiving yards"
+            ],
+            [
+              "D’Andre Swift",
+              "40+ rushing yards"
+            ],
+            [
+              "Dallas Goedert",
+              "25+ receiving yards"
+            ],
+            [
+              "Harold Fannin Jr.",
+              "25+ receiving yards"
+            ],
+            [
+              "Justin Jefferson",
+              "Anytime touchdown"
+            ]
+          ]
+        }
+      },
+      "notes": [
+        {
+          "type": "INJURY · CONFIRMED REPORT",
+          "title": "Flowers ruled out",
+          "text": "Baltimore’s September 19 team report rules Zay Flowers out with a hamstring injury. Check final inactives for the rest of the lineup.",
+          "url": "https://www.baltimoreravens.com/news/zay-flowers-ruled-out-carl-jones-signed-53-man-roster-tj-tampa-injured-reserve-ravens-saints-week-2-2026"
+        },
+        {
+          "type": "WEATHER · NEEDS RECHECK",
+          "title": "Keep an eye on Chicago",
+          "text": "Rain and wind were flagged in the original conversation. This site has no live weather feed; verify kickoff conditions before leaning on the rushing thesis.",
+          "url": "https://forecast.weather.gov/MapClick.php?lat=41.8781&lon=-87.6298"
+        },
+        {
+          "type": "MARKET · RESEARCH ONLY",
+          "title": "Alternative yards, same discipline",
+          "text": "The original card uses lower receiving thresholds for Jefferson, Chase, Goedert and Fannin. Confirm availability, price and player status at your sportsbook."
+        }
+      ]
+    },
+    {
+      "id": "late",
+      "label": "4 PM",
+      "name": "The late slate",
+      "time": "4:05 & 4:25 PM ET",
+      "intro": "McCaffrey headlines the late board. Dallas–Washington supplies several of the original receiving and touchdown ideas.",
+      "anchor": "Christian McCaffrey",
+      "anchorTeam": "SF · RUNNING BACK",
+      "anchorRead": "The late-slate foundation",
+      "games": [
+        {
+          "teams": "JAX @ DEN",
+          "time": "4:05 PM"
+        },
+        {
+          "teams": "LV @ LAC",
+          "time": "4:05 PM"
+        },
+        {
+          "teams": "MIA @ SF",
+          "time": "4:25 PM"
+        },
+        {
+          "teams": "SEA @ ARI",
+          "time": "4:25 PM"
+        },
+        {
+          "teams": "WAS @ DAL",
+          "time": "4:25 PM"
+        }
+      ],
+      "players": [
+        {
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "position": "RB",
+          "matchup": "MIA @ SF",
+          "odds": "−238",
+          "read": "Strongest",
+          "note": "The original late-slate anchor combines rushing and receiving opportunities. A favorable game script remains a scenario, not a certainty.",
+          "stat": "Miami allowed 130 rush yards · original note"
+        },
+        {
+          "name": "Javonte Williams",
+          "team": "DAL",
+          "position": "RB",
+          "matchup": "WAS @ DAL",
+          "odds": "−185",
+          "read": "Strong",
+          "note": "The source conversation favors his scoring role in a game with a high quoted total. Check the current market before comparing prices.",
+          "stat": "50.5 game total · original note"
+        },
+        {
+          "name": "Omarion Hampton",
+          "team": "LAC",
+          "position": "RB",
+          "matchup": "LV @ LAC",
+          "odds": "−140",
+          "read": "Strong",
+          "note": "The original read backs his rushing touchdown role. Monitor the Chargers’ available receivers and any resulting change in usage.",
+          "stat": "−140 implies 58.3% before margin · not a forecast"
+        },
+        {
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "position": "WR",
+          "matchup": "WAS @ DAL",
+          "odds": "+110",
+          "read": "Strong",
+          "note": "Receiving volume is the core idea. Pairing his yards with his touchdown adds exposure to the same player and game.",
+          "stat": "75.5 receiving-yard line · original note"
+        },
+        {
+          "name": "Trey McBride",
+          "team": "ARI",
+          "position": "TE",
+          "matchup": "SEA @ ARI",
+          "odds": "+185 to +245",
+          "read": "Value",
+          "note": "The conversation highlights heavy target volume. Receptions offer a different route than relying on an end-zone score.",
+          "stat": "Week 1: 13 targets · original note"
+        },
+        {
+          "name": "Deebo Samuel",
+          "team": "SF",
+          "position": "WR",
+          "matchup": "MIA @ SF",
+          "odds": "+210",
+          "read": "Value",
+          "note": "The starter lists Samuel with San Francisco and highlights designed touches. Roster and role should be reconfirmed before using this archived idea.",
+          "stat": "Rushing + receiving usage · original note"
+        },
+        {
+          "name": "Terry McLaurin",
+          "team": "WAS",
+          "position": "WR",
+          "matchup": "WAS @ DAL",
+          "odds": "+200",
+          "read": "Value",
+          "note": "The original analysis favors routes and snap volume after a quiet opener. The 40+ yard alternative appears in the balanced card.",
+          "stat": "53.5 receiving-yard line · original note"
+        }
+      ],
+      "parlays": {
+        "safer": {
+          "title": "Fewer legs. More restraint.",
+          "risk": "Lower relative risk · still high risk",
+          "note": "An editorial variation on the original card: five legs, with fewer touchdown requirements. “Safer” is relative; every leg must win and no parlay is safe.",
+          "legs": [
+            [
+              "Christian McCaffrey",
+              "Anytime touchdown"
+            ],
+            [
+              "CeeDee Lamb",
+              "50+ receiving yards"
+            ],
+            [
+              "Terry McLaurin",
+              "40+ receiving yards"
+            ],
+            [
+              "Trey McBride",
+              "5+ receptions"
+            ],
+            [
+              "George Pickens",
+              "50+ receiving yards"
+            ]
+          ]
+        },
+        "balanced": {
+          "title": "The original balanced card.",
+          "risk": "High risk · original 7-leg construction",
+          "note": "Preserved from the source conversation. Alternative thresholds are research ideas, not confirmed book offerings. Same-game correlations affect pricing and acceptance.",
+          "legs": [
+            [
+              "Christian McCaffrey",
+              "Anytime touchdown"
+            ],
+            [
+              "Javonte Williams",
+              "Anytime touchdown"
+            ],
+            [
+              "Omarion Hampton",
+              "Anytime touchdown"
+            ],
+            [
+              "CeeDee Lamb",
+              "50+ receiving yards"
+            ],
+            [
+              "Terry McLaurin",
+              "40+ receiving yards"
+            ],
+            [
+              "Trey McBride",
+              "5+ receptions"
+            ],
+            [
+              "George Pickens",
+              "50+ receiving yards"
+            ]
+          ]
+        },
+        "aggressive": {
+          "title": "An extra touchdown angle.",
+          "risk": "Very high risk · 8 legs",
+          "note": "Adds a touchdown to the balanced card. The extra leg reduces the chance that every selection wins. Yardage and touchdown legs for the same player are correlated.",
+          "legs": [
+            [
+              "Christian McCaffrey",
+              "Anytime touchdown"
+            ],
+            [
+              "Javonte Williams",
+              "Anytime touchdown"
+            ],
+            [
+              "Omarion Hampton",
+              "Anytime touchdown"
+            ],
+            [
+              "CeeDee Lamb",
+              "50+ receiving yards"
+            ],
+            [
+              "Terry McLaurin",
+              "40+ receiving yards"
+            ],
+            [
+              "Trey McBride",
+              "5+ receptions"
+            ],
+            [
+              "George Pickens",
+              "50+ receiving yards"
+            ],
+            [
+              "CeeDee Lamb",
+              "Anytime touchdown"
+            ]
+          ]
+        }
+      },
+      "notes": [
+        {
+          "type": "INJURIES · NEED RECHECK",
+          "title": "Late-window availability",
+          "text": "The source flagged RJ Harvey and Ladd McConkey as questionable, and Brock Bowers as doubtful. These are snapshot notes; review the latest injury report and final inactives.",
+          "url": "https://www.nfl.com/injuries/"
+        },
+        {
+          "type": "QUARTERBACK · NEEDS RECHECK",
+          "title": "Seattle passing outlook",
+          "text": "The original conversation reported Drew Lock starting instead of Sam Darnold. Verify the starter before relying on Seattle receiving projections.",
+          "url": "https://www.seahawks.com/news/"
+        },
+        {
+          "type": "WEATHER · NO LIVE FEED",
+          "title": "Check each outdoor venue",
+          "text": "No verified late-slate weather forecast was included in the source. Check conditions near kickoff. Indoor games still require roster and market checks."
+        }
+      ]
+    }
+  ]
+}
