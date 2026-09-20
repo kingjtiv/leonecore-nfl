@@ -461,5 +461,256 @@
         }
       ]
     }
-  ]
+  ],
+  "specials": {
+    "updated": "September 20, 2026 · 11:39 AM ET",
+    "scope": "Sunday afternoon · both kickoff windows",
+    "intro": "Three different constructions. The 12-TD card needs twelve individual scorers; the mixed card spreads its requirements across four markets; Two the Hard Way asks each selected player to score twice.",
+    "availability": "Availability review uses the linked September 19 NFL report and quarterback updates; this is not a final-inactives confirmation. Recheck every player before kickoff. New yardage targets are editorial alternatives, not verified book offerings or statistical forecasts. No current 2+ TD price or combined parlay price has been verified.",
+    "cards": [
+      {
+        "id": "longshot",
+        "label": "12 TD longshot",
+        "title": "Twelve scorers. One longshot.",
+        "risk": "Extreme risk · all 12 must score",
+        "note": "A full-afternoon extension of the original watchlist, excluding the unconfirmed Deebo roster/role entry. Several legs share games and teams, so they are correlated and may compete for touchdowns. Treat this as a speculative research card; there is no reliable payout or hit-rate estimate.",
+        "legs": [
+          {
+            "name": "Derrick Henry",
+            "market": "Anytime touchdown",
+            "matchup": "NO @ BAL",
+            "time": "1:00 PM",
+            "reason": "Original early anchor: a rushing and goal-line opportunity thesis."
+          },
+          {
+            "name": "D’Andre Swift",
+            "market": "Anytime touchdown",
+            "matchup": "MIN @ CHI",
+            "time": "1:00 PM",
+            "reason": "Rushing-role angle; check Chicago weather and final availability."
+          },
+          {
+            "name": "Saquon Barkley",
+            "market": "Anytime touchdown",
+            "matchup": "PHI @ TEN",
+            "time": "1:00 PM",
+            "reason": "Original rushing-matchup angle; shared goal-line work is a risk."
+          },
+          {
+            "name": "Ja’Marr Chase",
+            "market": "Anytime touchdown",
+            "matchup": "CIN @ HOU",
+            "time": "1:00 PM",
+            "reason": "Receiving TD upside; confirm Burrow’s final game status after back concerns."
+          },
+          {
+            "name": "Justin Jefferson",
+            "market": "Anytime touchdown",
+            "matchup": "MIN @ CHI",
+            "time": "1:00 PM",
+            "reason": "Receiving TD upside; Carson Wentz is reported to start for Minnesota."
+          },
+          {
+            "name": "Dallas Goedert",
+            "market": "Anytime touchdown",
+            "matchup": "PHI @ TEN",
+            "time": "1:00 PM",
+            "reason": "End-zone target angle; competes with Barkley for the same scoring opportunities."
+          },
+          {
+            "name": "Christian McCaffrey",
+            "market": "Anytime touchdown",
+            "matchup": "MIA @ SF",
+            "time": "4:25 PM",
+            "reason": "Original late anchor: rushing and receiving routes to a score."
+          },
+          {
+            "name": "Javonte Williams",
+            "market": "Anytime touchdown",
+            "matchup": "WAS @ DAL",
+            "time": "4:25 PM",
+            "reason": "Rushing TD angle in the Dallas–Washington matchup."
+          },
+          {
+            "name": "Omarion Hampton",
+            "market": "Anytime touchdown",
+            "matchup": "LV @ LAC",
+            "time": "4:05 PM",
+            "reason": "Original rushing-role angle; monitor the Chargers’ offensive availability."
+          },
+          {
+            "name": "CeeDee Lamb",
+            "market": "Anytime touchdown",
+            "matchup": "WAS @ DAL",
+            "time": "4:25 PM",
+            "reason": "Receiving TD angle; Dallas touchdowns are shared with Williams and other targets."
+          },
+          {
+            "name": "Trey McBride",
+            "market": "Anytime touchdown",
+            "matchup": "SEA @ ARI",
+            "time": "4:25 PM",
+            "reason": "Target-volume angle; reaching the end zone remains the volatile part."
+          },
+          {
+            "name": "Terry McLaurin",
+            "market": "Anytime touchdown",
+            "matchup": "WAS @ DAL",
+            "time": "4:25 PM",
+            "reason": "Receiving TD upside on the other side of the Dallas matchup."
+          }
+        ]
+      },
+      {
+        "id": "mixed",
+        "label": "Mixed yards + TD",
+        "title": "Two touchdowns. Eight yardage targets.",
+        "risk": "High risk · 10 legs across four markets",
+        "note": "Two anytime TDs, two passing-yard targets, four receiving-yard targets and two rushing-yard targets. Lower yardage thresholds still do not make a 10-leg parlay safe. The Dallas–Washington selections share a game script; Prescott and Lamb are directly correlated. Confirm that your book offers and combines these alternatives.",
+        "legs": [
+          {
+            "name": "Derrick Henry",
+            "market": "Anytime touchdown",
+            "matchup": "NO @ BAL",
+            "time": "1:00 PM",
+            "reason": "The original early-slate anchor; one score is sufficient."
+          },
+          {
+            "name": "Christian McCaffrey",
+            "market": "Anytime touchdown",
+            "matchup": "MIA @ SF",
+            "time": "4:25 PM",
+            "reason": "The original late-slate anchor; rushing or receiving scoring routes."
+          },
+          {
+            "name": "Dak Prescott",
+            "market": "200+ passing yards",
+            "matchup": "WAS @ DAL",
+            "time": "4:25 PM",
+            "reason": "Suggested alternative below the published 266.5-yard consensus line."
+          },
+          {
+            "name": "Jayden Daniels",
+            "market": "175+ passing yards",
+            "matchup": "WAS @ DAL",
+            "time": "4:25 PM",
+            "reason": "Suggested alternative below the published 221.5-yard consensus line."
+          },
+          {
+            "name": "Ja’Marr Chase",
+            "market": "40+ receiving yards",
+            "matchup": "CIN @ HOU",
+            "time": "1:00 PM",
+            "reason": "Lowers the original 50+ yard target; confirm the starting quarterback."
+          },
+          {
+            "name": "Justin Jefferson",
+            "market": "40+ receiving yards",
+            "matchup": "MIN @ CHI",
+            "time": "1:00 PM",
+            "reason": "Lowers the original 50+ target; Wentz starting and weather add uncertainty."
+          },
+          {
+            "name": "CeeDee Lamb",
+            "market": "40+ receiving yards",
+            "matchup": "WAS @ DAL",
+            "time": "4:25 PM",
+            "reason": "Lowers the original 50+ target; correlated with Prescott’s passing yards."
+          },
+          {
+            "name": "Trey McBride",
+            "market": "25+ receiving yards",
+            "matchup": "SEA @ ARI",
+            "time": "4:25 PM",
+            "reason": "A proposed yardage alternative to the original receptions and touchdown ideas."
+          },
+          {
+            "name": "Saquon Barkley",
+            "market": "40+ rushing yards",
+            "matchup": "PHI @ TEN",
+            "time": "1:00 PM",
+            "reason": "Suggested alternative below the published 79.5-yard consensus line."
+          },
+          {
+            "name": "Omarion Hampton",
+            "market": "40+ rushing yards",
+            "matchup": "LV @ LAC",
+            "time": "4:05 PM",
+            "reason": "Suggested alternative below the published 62.5-yard consensus line."
+          }
+        ]
+      },
+      {
+        "id": "two",
+        "label": "Two the Hard Way",
+        "title": "Two players. Two scores apiece.",
+        "risk": "Extreme risk · 2 legs, at least 4 total TDs",
+        "note": "Henry 2+ TDs plus McCaffrey 2+ TDs is a two-leg research pairing. Both must individually score at least twice; one TD each loses both selections. A rushing TD plus a receiving TD by the same player normally meets 2+ scored TDs; passing TDs are a separate market. Verify sportsbook rules. Consider each candidate independently before combining them.",
+        "legs": [
+          {
+            "name": "Derrick Henry",
+            "market": "2+ touchdowns scored",
+            "matchup": "NO @ BAL",
+            "time": "1:00 PM",
+            "reason": "First early candidate: the original goal-line/rushing thesis. Lamar Jackson and other scorers can take those opportunities."
+          },
+          {
+            "name": "Christian McCaffrey",
+            "market": "2+ touchdowns scored",
+            "matchup": "MIA @ SF",
+            "time": "4:25 PM",
+            "reason": "First late candidate: can score as a runner or receiver. A favorable team matchup does not guarantee two personal scores."
+          }
+        ]
+      }
+    ],
+    "watchlist": [
+      {
+        "name": "Derrick Henry",
+        "label": "First early candidate",
+        "context": "NO @ BAL · 1:00 PM ET",
+        "read": "A goal-line workload scenario makes him the first early player to examine for two scores.",
+        "caution": "Baltimore can score through Jackson or its receivers; a strong anytime profile is not a calibrated 2+ TD probability."
+      },
+      {
+        "name": "Christian McCaffrey",
+        "label": "First late candidate",
+        "context": "MIA @ SF · 4:25 PM ET",
+        "read": "Rushing and receiving usage create two ways to reach the end zone.",
+        "caution": "Touchdown distribution, workload and game flow can all limit a second score."
+      },
+      {
+        "name": "Saquon Barkley",
+        "label": "Early alternative",
+        "context": "PHI @ TEN · 1:00 PM ET",
+        "read": "An alternative if the rushing-matchup thesis translates into repeated goal-line chances.",
+        "caution": "Jalen Hurts’ rushing role and passing touchdowns can absorb the goal-line opportunities."
+      },
+      {
+        "name": "Javonte Williams",
+        "label": "Late alternative",
+        "context": "WAS @ DAL · 4:25 PM ET",
+        "read": "An alternative if Dallas finishes multiple drives with rushing touchdowns.",
+        "caution": "Lamb, Pickens and other pass catchers compete for the same team touchdowns."
+      }
+    ],
+    "sources": [
+      {
+        "title": "NFL Week 2 injury report",
+        "url": "https://fantasy-www.nfl.com/news/nfl-week-2-injury-report-player-statuses-for-all-16-games"
+      },
+      {
+        "title": "Minnesota quarterback update",
+        "url": "https://fantasy-www.nfl.com/news/vikings-qb-kyler-murray-concussion-out-bears-carson-wentz-to-start"
+      },
+      {
+        "title": "Cincinnati quarterback update",
+        "url": "https://fantasy-www.nfl.com/news/bengals-joe-burrow-texans-back-injury"
+      },
+      {
+        "title": "Published prop reference lines · Sep 19 snapshot",
+        "url": "https://www.sharpfootballanalysis.com/betting/nfl-player-props-odds-picks-predictions/"
+      }
+    ]
+  }
 }
